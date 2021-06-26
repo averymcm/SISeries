@@ -1,12 +1,16 @@
+# Sullivan's Island Series
+Avery McMurtry
+
 <!DOCTYPE html>
 <html>
 <body>
 
-<h1>Sullivan's Island Series</h1>
-<h2>Avery McMurtry</h2>
-
+  
+<h1 style="background-color:#ff6347;">Oyster Bed</h1>
 <p>My first paragraph.</p>
 
+<h2>Migration</h2>
+<p>My second paragraph.</p>
+  
 </body>
 </html>
-
