@@ -8,7 +8,7 @@ Avery McMurtry
 <h1>Oyster Bed</h1>
 <p>My first paragraph.</p>
 
-<h2>Oyster Bed</h2>
+<h2>Migration</h2>
 
 </body>
 </html>
