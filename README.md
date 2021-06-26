@@ -1,2 +1,2 @@
 # Sullivan's Island Series
-AveryMcMurtry
+Avery McMurtry
