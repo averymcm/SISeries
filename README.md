@@ -6,7 +6,7 @@ Avery McMurtry
 <body>
 
   
-<h1 style="background-color:#ff6347;">Oyster Bed</h1>
+<h1 style="color:#6690d4;">Oyster Bed</h1>
 <p>My first paragraph.</p>
 
 <h2>Migration</h2>
