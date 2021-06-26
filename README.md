@@ -1,2 +1,2 @@
-# AveryFinal
-Final Project 5D
+# Sullivan's Island Series
+AveryMcMurtry
