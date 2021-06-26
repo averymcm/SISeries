@@ -1,7 +1,7 @@
 # Sullivan's Island Series
 Avery McMurtry
 
-<!DOCTYPE html>
+
 <html>
 <body>
 
