@@ -8,7 +8,7 @@ Avery McMurtry
 <h1 style="color:#6690d4;">Oyster Bed</h1>
 <p>My first paragraph.</p>
 
-<h2>Migration</h2>
+<h2 style="color:#6690d4;">Migration</h2>
 <p>My second paragraph.</p>
   
 </body>
